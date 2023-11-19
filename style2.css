@@ -1,0 +1,169 @@
+#main
+{
+    height:1100px;
+    width:100%;
+    background-color:blueviolet;
+}
+#header
+{
+    height:200px;
+    width:100%;
+    background-color:rgb(72, 159, 221);
+}
+#logo
+{
+    height:150px;
+    width:100%;
+    margin-left:20px;
+  
+}
+#heading
+{
+    height:150px;
+    width:80%;
+    float:right;
+   
+}
+h3
+{
+    font-size:60px;
+    font-style: italic;
+    color:rgb(57, 15, 15);
+    text-align: center;
+    font-family:sans-serif;
+    margin-top:30px;
+    margin-right:20px;
+}
+h3:hover
+{
+    color:blanchedalmond;
+}
+h2
+{
+    font-size:80px;
+    font-style: italic;
+    color:rgb(57, 15, 15);
+    text-align: center;
+    font-family:sans-serif;
+    margin-top:30px;
+    margin-right:250px;
+}
+h2:hover
+{
+    color:blanchedalmond;
+}
+h5
+{
+    font-size:60px;
+    font-style: italic;
+    color:rgb(8, 8, 92);
+    text-align: center;
+    font-family:sans-serif;
+    margin-top:30px;
+}
+h5:hover
+{
+    color:rgb(57, 6, 6);
+}
+h6
+{
+    color:blanchedalmond;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top: 10px;
+    font-size:30px;
+    font-style:italic;
+    
+}
+h4
+{
+    color:rgb(57, 15, 15);;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top: 10px;
+    font-size:30px;
+    font-style:italic;
+    
+}
+h4:hover
+{
+    color:blanchedalmond;
+}
+#menu_bar
+{
+    height:50px;
+    width:100%;
+}
+.b1
+{
+    font-style:italic;
+    font-weight:bold;
+    border-radius:10px;
+    margin-top:10px;
+    margin-right:15px;
+    float:right;
+    font-size:15px;
+}
+.b1:hover
+{
+    color:red;
+}
+#container
+{
+    height:600px;
+    width:100%;
+    background-image:url(../images/utk111.jpg);
+}
+#cont
+{
+    height:200px;
+    width:100%;
+    position: absolute;
+}
+#left
+{
+    height:600px;
+    width:40%;
+    background-color: brown;
+    float:left;
+}
+#right
+{
+    height:600px;
+    width:60%;
+    background-color:black;
+    float:left;
+}
+#log_form
+{
+    height:280px;
+    width:400px;
+    background-color:rgb(8, 8, 60);
+    margin-top:150px;
+    margin-left:550px;
+    position:absolute;
+    color:blanchedalmond;
+    opacity:0.8;
+    font-size: 20px;
+   
+    
+}
+#reg_form
+{
+    height:450px;
+    width:400px;
+    background-color:rgb(8, 8, 60);
+    margin-top:150px;
+    margin-left:550px;
+    position:absolute;
+    color:blanchedalmond;
+    opacity:0.8;
+    font-size: 20px;
+   
+    
+}
+ #footer 
+{
+    height:300px;
+    width:100%;
+    background-color:rgb(72, 159, 221);
